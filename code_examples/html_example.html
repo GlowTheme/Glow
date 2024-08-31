@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A sample HTML document to test VSCode color themes">
+    <meta name="keywords" content="HTML, VSCode, Theme, Test">
+    <meta name="author" content="Your Name">
+    <title>Sample HTML Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #007acc;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            background-color: #333;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section, article {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .highlight {
+            background-color: #ffeb3b;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        @media (max-width: 600px) {
+            nav ul li {
+                display: block;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to the homepage! This is where the main content will go.</p>
+        <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+        <p class="highlight">Highlighted text for emphasis.</p>
+        <button onclick="alert('Button clicked!')">Click Me!</button>
+    </section>
+    <section id="about">
+        <h2>About</h2>
+        <p>This section is about us. Learn more about our mission and values.</p>
+    </section>
+    <section id="services">
+        <article>
+            <h3>Service 1</h3>
+            <p>Details about Service 1.</p>
+        </article>
+        <article>
+            <h3>Service 2</h3>
+            <p>Details about Service 2.</p>
+        </article>
+        <article>
+            <h3>Service 3</h3>
+            <p>Details about Service 3.</p>
+        </article>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <form action="/submit" method="POST">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message"></textarea><br>
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p>
+    </footer>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            console.log('Document is ready!');
+        });
+
+        function validateForm() {
+            let name = document.getElementById('name').value;
+            if (name == "") {
+                alert("Name must be filled out");
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>
