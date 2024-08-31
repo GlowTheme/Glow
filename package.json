@@ -1,0 +1,21 @@
+{
+  "name": "deepglow",
+  "displayName": "Deep Glow",
+  "description": "A short description of your theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Glow",
+        "uiTheme": "vs-dark", 
+        "path": "./themes/deepglow.json"
+      }
+    ]
+  }
+}
