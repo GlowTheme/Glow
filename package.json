@@ -1,6 +1,6 @@
 {
-  "name": "deepglow",
-  "displayName": "Deep Glow",
+  "name": "Glow",
+  "displayName": "Glow",
   "description": "A short description of your theme",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Deep Glow",
+        "label": "Glow Deep",
         "uiTheme": "vs-dark", 
         "path": "./themes/deepglow.json"
       }
