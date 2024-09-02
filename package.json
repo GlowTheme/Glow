@@ -4,7 +4,7 @@
   "description": "A short description of your theme",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.0.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Glow Balloon",
+        "uiTheme": "vs-light", 
+        "path": "./themes/glowballoon.json"
+      },
+      {
         "label": "Glow Deep",
         "uiTheme": "vs-dark", 
-        "path": "./themes/deepglow.json"
+        "path": "./themes/glowdeep.json"
       }
     ]
   }
