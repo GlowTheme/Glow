@@ -1,7 +1,7 @@
 {
   "name": "Glow",
   "displayName": "Glow",
-  "description": "A short description of your theme",
+  "description": "This is a small theme desiged to be both vibrant and easy on the eyes. The dark theme is inspired by the colors of jellyfish in the deep sea and the light theme by balloons in the sky.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.60.0"
