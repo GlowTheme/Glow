@@ -24,7 +24,7 @@ in the sky. Most importantly, the theme is NOT just the Glow Deep theme with the
 switched to white (switching to white NOT suddenly make your theme a light theme!). A
 screenshot!
 
-![Glow Balloons Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_balloons_screenshot.png)
+![Glow Balloon Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_balloon_screenshot.png)
 
 
 ## Glow Flower
@@ -33,4 +33,4 @@ This is another light theme much in the same vein as Balloon. This time, the col
 are a bit more muted (if only slighly) compared to the other color themes, and the colors
 themselves are inspired by flower fields.
 
-![Glow Balloons Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_flower_screenshot.png)
+![Glow Flower Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_flower_screenshot.png)
