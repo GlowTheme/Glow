@@ -18,22 +18,27 @@
   "contributes": {
     "themes": [
       {
+        "label": "Glow Gems",
+        "uiTheme": "vs",
+        "path": "./themes/glowgems.json"
+      },
+      {
         "label": "Glow Dusk",
         "uiTheme": "vs-dark",
         "path": "./themes/glowdusk.json"
       },
       {
-        "label": "Glow Balloon Test",
+        "label": "Glow Balloon",
         "uiTheme": "vs", 
         "path": "./themes/glowballoon.json"
       },
       {
-        "label": "Glow Flower Test",
+        "label": "Glow Flower",
         "uiTheme": "vs", 
         "path": "./themes/glowflower.json"
       },
       {
-        "label": "Glow Deep Test",
+        "label": "Glow Deep",
         "uiTheme": "vs-dark", 
         "path": "./themes/glowdeep.json"
       }

@@ -16,6 +16,22 @@ Here is a pretty screenshot!
 ![Glow Deep Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_deep_screenshot.png)
 
 
+## Glow Dusk 
+
+This is a slightly lighter, lower contrast version of the Glow Deep theme. The colors
+are muted and the colors are modified to look a bit more like city lights at dusk.
+
+![Glow Dusk Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_dusk_screenshot.png)
+
+
+## Glow Gems
+
+This is a "light" theme for dark theme enthusiasts. The background is an 80% gray meant to
+look like platinum, and the colors are largely inspired by the colors of gemstones.
+
+![Glow Gems Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_gems_screenshot.png)
+
+
 ## Glow Balloon
 
 This is a light theme that is meant to be a counterpart to Glow Deep. Instead of being
@@ -34,3 +50,4 @@ are a bit more muted (if only slighly) compared to the other color themes, and t
 themselves are inspired by flower fields.
 
 ![Glow Flower Screenshot](https://raw.githubusercontent.com/GlowTheme/Glow/main/screenshots/glow_flower_screenshot.png)
+
